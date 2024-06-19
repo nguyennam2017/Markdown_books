@@ -1,0 +1,1 @@
+pandoc -t gfm --extract-media . "The Science Book by DK Publishing (z-lib.org)" -o main.md
